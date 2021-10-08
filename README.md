@@ -1,5 +1,19 @@
-<h1 align="center">Hi 👋, I'm ialoig</h1>
-<h3 align="center">A passionate ProductManager-Fullstack-developer guy from Italy</h3>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Giovanni</h1>
+<h3 align="center">A passionate Product Manager from Italy</h3>
+
+- 🔭 I’m currently working on **something coool**
+
+- 🌱 I’m currently learning **Solidity, Etherium VM, Blockchain**
+
+- 👯 I’m looking to collaborate on **React/ReactNative projects**
+
+- 🤝 I’m looking for help with **Solidity**
+
+- 💬 Ask me about **how to design/build a mobile/web app or Enterprise app**
+
+- 📫 How to reach me **ialoig@protonmail.com**
+
+- ⚡ Fun fact **In the free time I train my body and my brain :weight_lifting_man: :books:**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -7,5 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ialoig&show_icons=true&theme=dark&locale=en&layout=compact" alt="ialoig" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ialoig&show_icons=true&theme=dark&locale=en" alt="ialoig" /></p>
+
+
+
 
