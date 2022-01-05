@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Giovanni</h1>
-<h3 align="center">A passionate Product Manager from Italy</h3>
+<h3 align="center">A passionate Product Manager</h3>
 
 - 🔭 I’m currently working on **something coool**
 
